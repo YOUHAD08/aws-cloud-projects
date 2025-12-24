@@ -21,21 +21,20 @@ This series is designed for learners of all levels wanting a path to getting cer
 1. **Set Up An AWS Account** - Initial AWS account configuration
 2. **Host a Website on Amazon S3** - Static website hosting with public access control
 3. **Cloud Security with AWS IAM** - Tag-based access control and user management
+4. **Build a Virtual Private Cloud**
 
 ### 🔄 Upcoming Projects
 
 #### **Networking & VPC (Projects 4-13)**
 
-4. Get Hands on with Cloud Networking!
-5. Build a Virtual Private Cloud
-6. VPC Traffic Flow and Security
-7. Creating a Private Subnet
-8. Launching VPC Resources
-9. Testing VPC Connectivity
-10. VPC Peering
-11. VPC Monitoring with Flow Logs
-12. Access S3 from a VPC
-13. VPC Endpoints
+5. VPC Traffic Flow and Security
+6. Creating a Private Subnet
+7. Launching VPC Resources
+8. Testing VPC Connectivity
+9. VPC Peering
+10. VPC Monitoring with Flow Logs
+11. Access S3 from a VPC
+12. VPC Endpoints
 
 #### **Content Delivery & AI/ML (Projects 14-20)**
 
