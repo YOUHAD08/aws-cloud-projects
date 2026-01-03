@@ -107,8 +107,6 @@ A complete private subnet infrastructure with isolated networking and security:
 
 ---
 
----
-
 ## Step-by-Step Implementation
 
 ### Step 1: Create Private Subnet
