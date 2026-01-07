@@ -37,7 +37,7 @@ This portfolio demonstrates practical AWS skills through real-world implementati
 | 6   | [Creating a Private Subnet](./06-aws-private-subnet)                | ✅ Complete | Private subnets, isolated routing         |
 | 7   | [Launching VPC Resources](./07-aws-vpc-resources)                   | ✅ Complete | EC2, Key Pairs, VPC Wizard                |
 | 8   | [Testing VPC Connectivity](./08-testing-vpc-connectivity)           | ✅ Complete | SSH access, security testing              |
-| 9   | VPC Peering                                                         | 🔄 Planned  | Cross-VPC communication                   |
+| 9   | [VPC Peering](./09-vpc-peering)                                     | ✅ Complete | Cross-VPC communication                   |
 | 10  | VPC Monitoring with Flow Logs                                       | 🔄 Planned  | Network traffic analysis                  |
 | 11  | Access S3 from a VPC                                                | 🔄 Planned  | VPC endpoints, private connections        |
 | 12  | VPC Endpoints                                                       | 🔄 Planned  | Gateway and interface endpoints           |
