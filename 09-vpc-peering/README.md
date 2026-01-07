@@ -205,7 +205,7 @@ Even after creating a peering connection, traffic doesn't automatically know how
 ![Add Route to VPC 2](./images/11-vpc1-route-table-add-peering-route.png)
 
 **Error**: "The destination CIDR block overlaps with existing subnet CIDR"
-![CIDR Error](./images/12-cidr-block-error.png)
+![CIDR Error](./images/12-route-table-wrong-cidr-error.png)
 
 **Why this causes an error:**
 
