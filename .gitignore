@@ -1,2 +1,10 @@
 # AWS Private Keys
 *.pem
+# Image folders
+screenshots/
+images/
+
+# Common unwanted files
+.DS_Store
+*.log
+*.tmp
