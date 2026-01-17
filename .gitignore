@@ -1,5 +1,6 @@
 # AWS Private Keys
 *.pem
+
 # Image folders
 screenshots/
 images/
@@ -8,18 +9,6 @@ images/
 .DS_Store
 *.log
 *.tmp
-
-Ah, got it! You want to keep the main README.md (the one outside) but remove the ones inside each project folder.
-Update your .gitignore to this:
-bash# Image folders
-screenshots/
-images/
-
-# PDF files
-*.pdf
-
-# PEM files (private keys - IMPORTANT for security!)
-*.pem
 
 # README files inside project folders only
 */README.md
