@@ -9,6 +9,12 @@
 
 ---
 
+## Project Architeture
+
+![Image](https://learn.nextwork.org/projects/static/aws-networks-endpoints/architecture-past.png)
+
+---
+
 ## VPC Monitoring with Flow Logs
 
 ![Image](http://learn.nextwork.org/radiant_cyan_daring_clementine/uploads/aws-networks-monitoring_3e1e79a1)
@@ -39,7 +45,7 @@ This project took me about 1 hour
 
 ### Step 1 - Set up VPCs
 
-In this step, I will set up two VPCs using VPC Wizard 
+In this step, I will set up two VPCs using VPC Wizard
 
 ### Step 2 - Launch EC2 instances
 
@@ -87,7 +93,7 @@ I created an IAM policy to grant VPC Flow Logs the required permissions to creat
 
 I also created an IAM role to assign VPC Flow Logs the correct permissions needed to create and access log resources.
 
-A custom trust policy is a policy that grants permission to a specific service or entity within a service to assume an IAM role. 
+A custom trust policy is a policy that grants permission to a specific service or entity within a service to assume an IAM role.
 
 ![Image](http://learn.nextwork.org/radiant_cyan_daring_clementine/uploads/aws-networks-monitoring_4334d777)
 
