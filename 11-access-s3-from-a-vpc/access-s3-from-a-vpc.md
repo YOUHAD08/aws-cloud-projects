@@ -11,7 +11,7 @@
 
 ## Project Architeture
 
-![Image](https://learn.nextwork.org/projects/static/aws-networks-monitoring/architecture-today.png)
+![Image](https://learn.nextwork.org/projects/static/aws-networks-endpoints/architecture-past.png)
 
 ---
 
