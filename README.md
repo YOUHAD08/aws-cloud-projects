@@ -39,7 +39,7 @@ This portfolio demonstrates practical AWS skills through real-world implementati
 | 8   | [Testing VPC Connectivity](./08-testing-vpc-connectivity)           | ✅ Complete | SSH access, security testing              |
 | 9   | [VPC Peering](./09-vpc-peering)                                     | ✅ Complete | Cross-VPC communication                   |
 | 10  | [VPC Monitoring with Flow Logs](./10-vpc-monitoring-with-flow-logs) | ✅ Complete | Network traffic analysis                  |
-| 11  | Access S3 from a VPC                                                | 🔄 Planned  | VPC endpoints, private connections        |
+| 11  | [Access S3 from a VPC](./11-access-s3-from-a-vpc)                   | ✅ Complete | VPC endpoints, private connections        |
 | 12  | VPC Endpoints                                                       | 🔄 Planned  | Gateway and interface endpoints           |
 
 ### **🤖 AI/ML & Content Delivery** (Projects 13-19)
