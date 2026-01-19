@@ -9,6 +9,12 @@
 
 ---
 
+## Project Architeture
+
+![Image](https://learn.nextwork.org/projects/static/aws-networks-monitoring/architecture-today.png)
+
+---
+
 ## Access S3 from a VPC
 
 ![Image](http://learn.nextwork.org/radiant_cyan_daring_clementine/uploads/aws-networks-s3_3e1e79a2)
