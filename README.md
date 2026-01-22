@@ -42,6 +42,17 @@ This portfolio demonstrates practical AWS skills through real-world implementati
 | 11  | [Access S3 from a VPC](./11-access-s3-from-a-vpc)                   | ✅ Complete | VPC endpoints, private connections        |
 | 12  | [VPC Endpoints](./12-vpc-endpoint)                                  | ✅ Complete | Gateway and interface endpoints           |
 
+### **💾 Databases & Data** (Projects 20-25)
+
+| #   | Project                     | Status      | Key Concepts                     |
+| --- | --------------------------- | ----------- | -------------------------------- |
+| 20  | Aurora Database with EC2    | ✅ Complete | RDS Aurora, relational databases |
+| 21  | Connect Web App with Aurora | 🔄 Planned  | Database connectivity            |
+| 22  | Load Data into DynamoDB     | 🔄 Planned  | NoSQL, key-value store           |
+| 23  | Query Data with DynamoDB    | 🔄 Planned  | Queries, scans, indexes          |
+| 24  | Encrypt Data with KMS       | 🔄 Planned  | Encryption at rest               |
+| 25  | Fetch Data with Lambda      | 🔄 Planned  | Serverless data access           |
+
 ### **🤖 AI/ML & Content Delivery** (Projects 13-19)
 
 | #   | Project                          | Status     | Key Concepts                 |
@@ -53,17 +64,6 @@ This portfolio demonstrates practical AWS skills through real-world implementati
 | 17  | Save User Info with Lex          | 🔄 Planned | Session management           |
 | 18  | Multiple Slots in Lex            | 🔄 Planned | Complex conversations        |
 | 19  | Transcribe Audio with AI         | 🔄 Planned | Amazon Transcribe            |
-
-### **💾 Databases & Data** (Projects 20-25)
-
-| #   | Project                     | Status     | Key Concepts                     |
-| --- | --------------------------- | ---------- | -------------------------------- |
-| 20  | Aurora Database with EC2    | 🔄 Planned | RDS Aurora, relational databases |
-| 21  | Connect Web App with Aurora | 🔄 Planned | Database connectivity            |
-| 22  | Load Data into DynamoDB     | 🔄 Planned | NoSQL, key-value store           |
-| 23  | Query Data with DynamoDB    | 🔄 Planned | Queries, scans, indexes          |
-| 24  | Encrypt Data with KMS       | 🔄 Planned | Encryption at rest               |
-| 25  | Fetch Data with Lambda      | 🔄 Planned | Serverless data access           |
 
 ### **🔧 Application Development** (Projects 26-29)
 
