@@ -2,18 +2,18 @@
 
 ---
 
-# Project Architecture
-
-![Project Architecture](https://learn.nextwork.org/projects/static/aws-databases-webapp/architecture-diagram5.png)
-
----
-
 # Connect a Web App with Aurora
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-databases-webapp)
 
 **Author:** YOUHAD AYOUB  
 **Email:** yo_ayoub@etu.enset-media.ac.ma
+
+---
+
+## Project Architecture
+
+![Project Architecture](https://learn.nextwork.org/projects/static/aws-databases-webapp/architecture-diagram5.png)
 
 ---
 
