@@ -49,9 +49,7 @@ This portfolio demonstrates practical AWS skills through real-world implementati
 | 20  | Aurora Database with EC2    | ✅ Complete | RDS Aurora, relational databases |
 | 21  | Connect Web App with Aurora | ✅ Complete | Database connectivity            |
 | 22  | Load Data into DynamoDB     | ✅ Complete | NoSQL, key-value store           |
-| 23  | Query Data with DynamoDB    | 🔄 Planned  | Queries, scans, indexes          |
-| 24  | Encrypt Data with KMS       | 🔄 Planned  | Encryption at rest               |
-| 25  | Fetch Data with Lambda      | 🔄 Planned  | Serverless data access           |
+| 23  | Query Data with DynamoDB    | ✅ Complete | Queries, scans, indexes          |
 
 ### **🤖 AI/ML & Content Delivery** (Projects 13-19)
 
