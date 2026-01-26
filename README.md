@@ -1,151 +1,191 @@
-# ☁️ AWS Cloud Practitioner - Complete Projects Portfolio
+# ☁️ My AWS Solutions Architect Journey
 
-A comprehensive collection of 40+ hands-on AWS projects documenting my journey toward the **AWS Certified Cloud Practitioner (CLF-C02)** certification. Each project includes detailed implementation guides, screenshots, code samples, and security best practices.
-
----
-
-## 🎯 About This Repository
-
-This portfolio demonstrates practical AWS skills through real-world implementations, covering:
-
-- ✅ Step-by-step implementation guides with screenshots
-- ✅ Security best practices and IAM configurations
-- ✅ Network architecture and multi-tier applications
-- ✅ Infrastructure as Code (CloudFormation, Terraform)
-- ✅ CI/CD pipelines and DevOps automation
-- ✅ Serverless applications and containerization
+Documenting my hands-on learning path to becoming an **AWS Solutions Architect**. This repository tracks my progress through 51 AWS projects from NextWork's Solutions Architect roadmap, with detailed notes, screenshots, and lessons learned along the way.
 
 ---
 
-## 📊 Progress Tracker
+## 🎯 About My Journey
 
-**Completed:** 8/46 Projects | **In Progress:** Networking Series | **Target:** AWS CCP Certification
+This is my personal documentation of building **production-ready AWS solutions** through NextWork's Solutions Architect roadmap. Each project represents real hands-on work I've completed, developing skills that showcase my ability to architect and deploy cloud solutions.
 
----
-
-## 📚 Projects by Category
-
-### **🌐 Networking & VPC** (Projects 1-12)
-
-| #   | Project                                                             | Status      | Key Concepts                              |
-| --- | ------------------------------------------------------------------- | ----------- | ----------------------------------------- |
-| 1   | [Set Up An AWS Account](./01-aws-account-setup)                     | ✅ Complete | Account configuration, billing alerts     |
-| 2   | [Host a Website on Amazon S3](./02-aws-static-website-s3)           | ✅ Complete | S3 static hosting, bucket policies        |
-| 3   | [Cloud Security with AWS IAM](./03-aws-iam-security)                | ✅ Complete | IAM users, policies, tag-based access     |
-| 4   | [Build a Virtual Private Cloud](./04-aws-virtual-private-cloud)     | ✅ Complete | VPC, CIDR blocks, subnets                 |
-| 5   | [VPC Traffic Flow and Security](./05-vpc-traffic-flow-and-security) | ✅ Complete | Route tables, IGW, Security Groups, NACLs |
-| 6   | [Creating a Private Subnet](./06-aws-private-subnet)                | ✅ Complete | Private subnets, isolated routing         |
-| 7   | [Launching VPC Resources](./07-aws-vpc-resources)                   | ✅ Complete | EC2, Key Pairs, VPC Wizard                |
-| 8   | [Testing VPC Connectivity](./08-testing-vpc-connectivity)           | ✅ Complete | SSH access, security testing              |
-| 9   | [VPC Peering](./09-vpc-peering)                                     | ✅ Complete | Cross-VPC communication                   |
-| 10  | [VPC Monitoring with Flow Logs](./10-vpc-monitoring-with-flow-logs) | ✅ Complete | Network traffic analysis                  |
-| 11  | [Access S3 from a VPC](./11-access-s3-from-a-vpc)                   | ✅ Complete | VPC endpoints, private connections        |
-| 12  | [VPC Endpoints](./12-vpc-endpoint)                                  | ✅ Complete | Gateway and interface endpoints           |
-
-### **💾 Databases & Data** (Projects 20-25)
-
-| #   | Project                     | Status      | Key Concepts                     |
-| --- | --------------------------- | ----------- | -------------------------------- |
-| 20  | Aurora Database with EC2    | ✅ Complete | RDS Aurora, relational databases |
-| 21  | Connect Web App with Aurora | ✅ Complete | Database connectivity            |
-| 22  | Load Data into DynamoDB     | ✅ Complete | NoSQL, key-value store           |
-| 23  | Query Data with DynamoDB    | ✅ Complete | Queries, scans, indexes          |
-
-### **🤖 AI/ML & Content Delivery** (Projects 13-19)
-
-| #   | Project                          | Status     | Key Concepts                 |
-| --- | -------------------------------- | ---------- | ---------------------------- |
-| 13  | Website Delivery with CloudFront | 🔄 Planned | CDN, edge locations, caching |
-| 14  | Build a Chatbot with Amazon Lex  | 🔄 Planned | Conversational AI, intents   |
-| 15  | Add Custom Slots to Lex          | 🔄 Planned | Slot types, utterances       |
-| 16  | Connect Lex with Lambda          | 🔄 Planned | Serverless integration       |
-| 17  | Save User Info with Lex          | 🔄 Planned | Session management           |
-| 18  | Multiple Slots in Lex            | 🔄 Planned | Complex conversations        |
-| 19  | Transcribe Audio with AI         | 🔄 Planned | Amazon Transcribe            |
-
-### **🔧 Application Development** (Projects 26-29)
-
-| #   | Project                         | Status     | Key Concepts            |
-| --- | ------------------------------- | ---------- | ----------------------- |
-| 26  | APIs with Lambda + API Gateway  | 🔄 Planned | REST APIs, serverless   |
-| 27  | Build a Three-Tier Web App      | 🔄 Planned | Multi-tier architecture |
-| 28  | Threat Detection with GuardDuty | 🔄 Planned | Security monitoring     |
-| 29  | Set Up Web App in Cloud         | 🔄 Planned | Full-stack deployment   |
-
-### **🐳 Containers & Orchestration** (Projects 30-35)
-
-| #   | Project                     | Status     | Key Concepts                |
-| --- | --------------------------- | ---------- | --------------------------- |
-| 30  | Deploy App with Docker      | 🔄 Planned | Containerization, ECS       |
-| 31  | Deploy App Across Accounts  | 🔄 Planned | Cross-account access        |
-| 32  | Launch Kubernetes Cluster   | 🔄 Planned | EKS, cluster setup          |
-| 33  | Kubernetes Deployment       | 🔄 Planned | Pods, services, deployments |
-| 34  | Create Kubernetes Manifests | 🔄 Planned | YAML configurations         |
-| 35  | Deploy Backend with K8s     | 🔄 Planned | Backend services            |
-
-### **🚀 CI/CD & Infrastructure as Code** (Projects 36-42)
-
-| #   | Project                           | Status     | Key Concepts                |
-| --- | --------------------------------- | ---------- | --------------------------- |
-| 36  | Connect GitHub with AWS           | 🔄 Planned | Source control integration  |
-| 37  | Secure Packages with CodeArtifact | 🔄 Planned | Package management          |
-| 38  | CI with CodeBuild                 | 🔄 Planned | Build automation            |
-| 39  | Deploy with CodeDeploy            | 🔄 Planned | Deployment automation       |
-| 40  | IaC with CloudFormation           | 🔄 Planned | Template-based provisioning |
-| 41  | Build CI/CD Pipeline              | 🔄 Planned | End-to-end automation       |
-| 42  | S3 Buckets with Terraform         | 🔄 Planned | Multi-cloud IaC             |
-
-### **🔒 Security & Multi-Cloud** (Projects 43-46)
-
-| #   | Project                    | Status     | Key Concepts                 |
-| --- | -------------------------- | ---------- | ---------------------------- |
-| 43  | Secrets Manager            | 🔄 Planned | Credential management        |
-| 44  | Security Monitoring System | 🔄 Planned | CloudWatch, GuardDuty        |
-| 45  | Multi-Cloud Data Transfer  | 🔄 Planned | AWS + GCP integration        |
-| 46  | Final Capstone Project     | 🔄 Planned | Comprehensive implementation |
+- 📝 My implementation notes and screenshots
+- 🔧 Code I've written and configurations I've tested
+- 🎓 Key lessons and concepts I've learned
+- ⚠️ Challenges I faced and how I solved them
 
 ---
 
-## 🛠️ AWS Services Covered
+## 📊 My Progress
 
-**Compute & Serverless**  
-EC2 • Lambda • ECS • EKS • Fargate
+**Completed:** 14/51 Projects | **Currently Working On:** Phase 4 - Security | **Goal:** AWS Solutions Architect Career
 
-**Storage & Databases**  
-S3 • EBS • EFS • RDS Aurora • DynamoDB
+---
+
+## 📚 My Learning Path
+
+### **Phase 1: AWS Basics** ✅ COMPLETED (2/2 Projects)
+
+| #   | Project                                                                 | Status      | What I Learned                        |
+| --- | ----------------------------------------------------------------------- | ----------- | ------------------------------------- |
+| 1   | [Host a Website on Amazon S3](./01-aws-basics/01-aws-static-website-s3) | ✅ Complete | S3 static hosting, bucket policies    |
+| 2   | [Cloud Security with AWS IAM](./01-aws-basics/02-aws-iam-security)      | ✅ Complete | IAM users, policies, tag-based access |
+
+---
+
+### **Phase 2: Networking** ✅ COMPLETED (10/10 Projects)
+
+| #   | Project                                                                           | Status      | What I Learned                            |
+| --- | --------------------------------------------------------------------------------- | ----------- | ----------------------------------------- |
+| 3   | [Get Hands on with Cloud Networking!](./02-networking/03-cloud-networking-intro)  | ✅ Complete | Networking fundamentals                   |
+| 4   | [Build a Virtual Private Cloud](./02-networking/04-aws-virtual-private-cloud)     | ✅ Complete | VPC, CIDR blocks, subnets                 |
+| 5   | [VPC Traffic Flow and Security](./02-networking/05-vpc-traffic-flow-and-security) | ✅ Complete | Route tables, IGW, Security Groups, NACLs |
+| 6   | [Creating a Private Subnet](./02-networking/06-aws-private-subnet)                | ✅ Complete | Private subnets, isolated routing         |
+| 7   | [Launching VPC Resources](./02-networking/07-aws-vpc-resources)                   | ✅ Complete | EC2, Key Pairs, VPC Wizard                |
+| 8   | [Testing VPC Connectivity](./02-networking/08-testing-vpc-connectivity)           | ✅ Complete | SSH access, security testing              |
+| 9   | [VPC Peering](./02-networking/09-vpc-peering)                                     | ✅ Complete | Cross-VPC communication                   |
+| 10  | [VPC Monitoring with Flow Logs](./02-networking/10-vpc-monitoring-with-flow-logs) | ✅ Complete | Network traffic analysis                  |
+| 11  | [Access S3 from a VPC](./02-networking/11-access-s3-from-a-vpc)                   | ✅ Complete | VPC endpoints, private connections        |
+| 12  | [VPC Endpoints](./02-networking/12-vpc-endpoint)                                  | ✅ Complete | Gateway and interface endpoints           |
+
+---
+
+### **Phase 3: Databases** ✅ COMPLETED (5/5 Projects)
+
+| #   | Project                                                                        | Status      | What I Learned                   |
+| --- | ------------------------------------------------------------------------------ | ----------- | -------------------------------- |
+| 13  | [Get Hands On with AWS Databases!](./03-databases/13-aws-databases-intro)      | ✅ Complete | Database fundamentals            |
+| 14  | [Aurora Database with EC2](./03-databases/14-aurora-database-with-ec2)         | ✅ Complete | RDS Aurora, relational databases |
+| 15  | [Connect a Web App with Aurora](./03-databases/15-connect-web-app-with-aurora) | ✅ Complete | Database connectivity            |
+| 16  | [Load Data into DynamoDB](./03-databases/16-aws-databases-dynamodb)            | ✅ Complete | NoSQL, key-value store           |
+| 17  | [Query Data with DynamoDB](./03-databases/17-query-data-with-dynamodb)         | ✅ Complete | Queries, scans, indexes          |
+
+---
+
+### **Phase 4: Security** 🔄 IN PROGRESS (0/4 Projects)
+
+| #   | Project                                                                    | Status      | What I'll Learn               |
+| --- | -------------------------------------------------------------------------- | ----------- | ----------------------------- |
+| 18  | [Encrypt Data with AWS KMS](./04-security/18-encrypt-data-with-kms)        | 📋 Next Up  | Key management, encryption    |
+| 19  | [Threat Detection with GuardDuty](./04-security/19-threat-detection)       | ⏳ Upcoming | Security monitoring           |
+| 20  | [Secure Secrets with Secrets Manager](./04-security/20-secrets-manager)    | ⏳ Upcoming | Credential management         |
+| 21  | [Build a Security Monitoring System](./04-security/21-security-monitoring) | ⏳ Upcoming | CloudWatch, GuardDuty, alerts |
+
+---
+
+### **Phase 5: Containers & Compute** (0/10 Projects)
+
+| #   | Project                                                                         | Status      | What I'll Learn                  |
+| --- | ------------------------------------------------------------------------------- | ----------- | -------------------------------- |
+| 22  | [Website Delivery with CloudFront](./05-containers-compute/22-cloudfront)       | ⏳ Upcoming | CDN, edge locations, caching     |
+| 23  | [APIs with Lambda + API Gateway](./05-containers-compute/23-lambda-api-gateway) | ⏳ Upcoming | Serverless APIs, REST endpoints  |
+| 24  | [Fetch Data with AWS Lambda](./05-containers-compute/24-lambda-data-fetch)      | ⏳ Upcoming | Lambda functions, event triggers |
+| 25  | [Build a Three-Tier Web App](./05-containers-compute/25-three-tier-app)         | ⏳ Upcoming | Application architecture         |
+| 26  | [Deploy an App with Docker](./05-containers-compute/26-docker-deployment)       | ⏳ Upcoming | Containerization, Docker basics  |
+| 27  | [Deploy an App Across Accounts](./05-containers-compute/27-cross-account)       | ⏳ Upcoming | Multi-account strategies         |
+| 28  | [Launch a Kubernetes Cluster](./05-containers-compute/28-kubernetes-cluster)    | ⏳ Upcoming | EKS, cluster management          |
+| 29  | [Set Up Kubernetes Deployment](./05-containers-compute/29-k8s-deployment)       | ⏳ Upcoming | Deployments, pods, services      |
+| 30  | [Create Kubernetes Manifests](./05-containers-compute/30-k8s-manifests)         | ⏳ Upcoming | YAML configurations              |
+| 31  | [Deploy Backend with Kubernetes](./05-containers-compute/31-k8s-backend)        | ⏳ Upcoming | Full-stack Kubernetes deployment |
+
+---
+
+### **Phase 6: DevOps** (0/10 Projects)
+
+| #   | Project                                                                           | Status      | What I'll Learn                    |
+| --- | --------------------------------------------------------------------------------- | ----------- | ---------------------------------- |
+| 32  | [Join the 7 Day DevOps Challenge!](./06-devops/32-devops-challenge)               | ✅ Complete | DevOps fundamentals                |
+| 33  | [Set Up a Web App in the Cloud](./06-devops/33-web-app-setup)                     | ✅ Complete | Cloud application deployment       |
+| 34  | [Connect a GitHub Repo with AWS](./06-devops/34-github-aws-integration)           | ⏳ Upcoming | Source control integration         |
+| 35  | [Secure Packages with CodeArtifact](./06-devops/35-codeartifact)                  | ⏳ Upcoming | Package management, artifact repos |
+| 36  | [Continuous Integration with CodeBuild](./06-devops/36-codebuild-ci)              | ⏳ Upcoming | Build automation, CI pipelines     |
+| 37  | [Deploy a Web App with CodeDeploy](./06-devops/37-codedeploy)                     | ⏳ Upcoming | Automated deployment strategies    |
+| 38  | [Infrastructure as Code with CloudFormation](./06-devops/38-cloudformation)       | ⏳ Upcoming | IaC, stack management              |
+| 39  | [Build a CI/CD Pipeline with AWS](./06-devops/39-cicd-pipeline)                   | ⏳ Upcoming | End-to-end automation              |
+| 40  | [Create S3 Buckets with Terraform](./06-devops/40-terraform-s3)                   | ⏳ Upcoming | Terraform basics, state management |
+| 41  | [Multi-Cloud Data Transfer with AWS and GCP](./06-devops/41-multi-cloud-transfer) | ⏳ Upcoming | Cross-cloud integration            |
+
+---
+
+## 🎓 What I've Learned So Far
+
+### ✅ AWS Basics
+
+- Setting up and securing AWS accounts
+- IAM best practices and policy management
+- Hosting static websites on S3
+
+### ✅ Networking
+
+- Building VPCs from scratch
+- Configuring subnets, route tables, and gateways
+- Implementing security with Security Groups and NACLs
+- VPC peering and monitoring with Flow Logs
+- Using VPC endpoints for private AWS service access
+
+### ✅ Databases
+
+- Working with RDS Aurora for relational databases
+- Connecting applications to databases
+- Using DynamoDB for NoSQL operations
+- Querying and managing data in both SQL and NoSQL
+
+---
+
+## 🛠️ AWS Services I've Used
+
+**Compute & Storage**  
+EC2 • S3 • EBS
+
+**Databases**  
+RDS Aurora • DynamoDB
 
 **Networking**  
-VPC • Route Tables • Internet Gateway • NAT Gateway • CloudFront • Route 53 • API Gateway • VPC Endpoints
+VPC • Subnets • Route Tables • Internet Gateway • Security Groups • NACLs • VPC Endpoints • VPC Peering
 
 **Security & Identity**  
-IAM • Security Groups • NACLs • KMS • Secrets Manager • GuardDuty • AWS Organizations
+IAM • Policies • Roles
 
-**Developer Tools**  
-CodeCommit • CodeBuild • CodeDeploy • CodePipeline • CodeArtifact • CloudFormation
+**Monitoring**  
+VPC Flow Logs • CloudWatch
 
-**Containers**  
-Docker • Amazon ECS • Amazon EKS • ECR
-
-**AI/ML**  
-Amazon Lex • Amazon Transcribe • Amazon Polly
-
-**Monitoring & Logging**  
-CloudWatch • VPC Flow Logs • CloudTrail
-
-**Other**  
-Terraform • Multi-Cloud (AWS + GCP)
+**Coming Up Next**  
+KMS • Secrets Manager • GuardDuty • Lambda • CloudFront • Docker • Kubernetes • CodePipeline • Terraform • CloudFormation
 
 ---
 
-## 👨‍💻 About
+## 📈 My Journey Timeline
 
-**Author:** YOUHAD AYOUB  
-**Region:** eu-west-3 (Paris)  
-**Challenge:** NextWork AWS Challenge  
-**Goal:** AWS Certified Cloud Practitioner (CLF-C02)
+```
+✅ Phase 1: AWS Basics (Completed)
+✅ Phase 2: Networking (Completed)
+✅ Phase 3: Databases (Completed)
+🔄 Phase 4: Security (Next)
+⏳ Phase 5: Containers & Compute (Comming Soon)
+⏳ Phase 6: DevOps (In Progress)
+🎯 AWS Solutions Architect Role
+```
 
 ---
 
-## 🤝 Acknowledgments
+## 📝 Notes to Self
 
-Special thanks to the **NextWork community** for providing excellent project structures, clear explanations, and hands-on learning experiences that make AWS fun to work with.
+- **Region:** Working primarily in eu-west-3 (Paris)
+- **Roadmap:** Following NextWork's Solutions Architect project roadmap
+- **Approach:** Building production-ready solutions - hands-on practice over theory
+- **Goal:** Develop portfolio projects that showcase Solutions Architect skills
+- **Focus:** Architecture, scalability, security, and best practices
+
+---
+
+## 🙏 Acknowledgments
+
+Big thanks to **NextWork** for creating this Solutions Architect roadmap with hands-on projects that develop production-ready skills. The practical approach to learning cloud architecture has been incredibly valuable for my career development.
+
+---
+
+**Last Updated:** January 26, 2026  
+**Current Focus:** DevOps
+
+---
+
+_This is a living document of my AWS learning journey. Each project folder contains my detailed notes, code, and screenshots from my implementations._
