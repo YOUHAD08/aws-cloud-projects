@@ -98,7 +98,7 @@ This is my personal documentation of building **production-ready AWS solutions**
 | 34  | [Connect a GitHub Repo with AWS](./06-devops/34-github-aws-integration)           | ✅ Complete | Source control integration         |
 | 35  | [Secure Packages with CodeArtifact](./06-devops/35-codeartifact)                  | ✅ Complete | Package management, artifact repos |
 | 36  | [Continuous Integration with CodeBuild](./06-devops/36-codebuild-ci)              | ✅ Complete | Build automation, CI pipelines     |
-| 37  | [Deploy a Web App with CodeDeploy](./06-devops/37-codedeploy)                     | ⏳ Upcoming | Automated deployment strategies    |
+| 37  | [Deploy a Web App with CodeDeploy](./06-devops/37-codedeploy)                     | ✅ Complete | Automated deployment strategies    |
 | 38  | [Infrastructure as Code with CloudFormation](./06-devops/38-cloudformation)       | ⏳ Upcoming | IaC, stack management              |
 | 39  | [Build a CI/CD Pipeline with AWS](./06-devops/39-cicd-pipeline)                   | ⏳ Upcoming | End-to-end automation              |
 | 40  | [Create S3 Buckets with Terraform](./06-devops/40-terraform-s3)                   | ⏳ Upcoming | Terraform basics, state management |
