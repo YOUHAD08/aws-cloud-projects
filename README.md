@@ -102,7 +102,7 @@ This is my personal documentation of building **production-ready AWS solutions**
 | 38  | [Infrastructure as Code with CloudFormation](./06-devops/38-cloudformation)       | ✅ Complete | IaC, stack management              |
 | 39  | [Build a CI/CD Pipeline with AWS](./06-devops/39-cicd-pipeline)                   | ✅ Complete | End-to-end automation              |
 | 40  | [Create S3 Buckets with Terraform](./06-devops/40-terraform-s3)                   | ✅ Complete | Terraform basics, state management |
-| 41  | [Multi-Cloud Data Transfer with AWS and GCP](./06-devops/41-multi-cloud-transfer) | ⏳ Upcoming | Cross-cloud integration            |
+| 41  | [Multi-Cloud Data Transfer with AWS and GCP](./06-devops/41-multi-cloud-transfer) | ✅ Complete | Cross-cloud integration            |
 
 ---
 
