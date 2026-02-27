@@ -76,7 +76,7 @@ This is my personal documentation of building **production-ready AWS solutions**
 
 | #   | Project                                                                         | Status      | What I'll Learn                  |
 | --- | ------------------------------------------------------------------------------- | ----------- | -------------------------------- |
-| 22  | [Website Delivery with CloudFront](./05-containers-compute/22-cloudfront)       | ⏳ Upcoming | CDN, edge locations, caching     |
+| 22  | [Website Delivery with CloudFront](./05-containers-compute/22-cloudfront)       | ✅ Complete | CDN, edge locations, caching     |
 | 23  | [APIs with Lambda + API Gateway](./05-containers-compute/23-lambda-api-gateway) | ✅ Complete | Serverless APIs, REST endpoints  |
 | 24  | [Fetch Data with AWS Lambda](./05-containers-compute/24-lambda-data-fetch)      | ⏳ Upcoming | Lambda functions, event triggers |
 | 25  | [Build a Three-Tier Web App](./05-containers-compute/25-three-tier-app)         | ⏳ Upcoming | Application architecture         |
