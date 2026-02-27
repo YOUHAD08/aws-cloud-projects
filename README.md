@@ -80,12 +80,10 @@ This is my personal documentation of building **production-ready AWS solutions**
 | 23  | [APIs with Lambda + API Gateway](./05-containers-compute/23-lambda-api-gateway) | ✅ Complete | Serverless APIs, REST endpoints  |
 | 24  | [Fetch Data with AWS Lambda](./05-containers-compute/24-lambda-data-fetch)      | ✅ Complete | Lambda functions, event triggers |
 | 25  | [Build a Three-Tier Web App](./05-containers-compute/25-three-tier-app)         | ✅ Complete | Application architecture         |
-| 26  | [Deploy an App with Docker](./05-containers-compute/26-docker-deployment)       | ⏳ Upcoming | Containerization, Docker basics  |
-| 27  | [Deploy an App Across Accounts](./05-containers-compute/27-cross-account)       | ⏳ Upcoming | Multi-account strategies         |
-| 28  | [Launch a Kubernetes Cluster](./05-containers-compute/28-kubernetes-cluster)    | ⏳ Upcoming | EKS, cluster management          |
-| 29  | [Set Up Kubernetes Deployment](./05-containers-compute/29-k8s-deployment)       | ⏳ Upcoming | Deployments, pods, services      |
-| 30  | [Create Kubernetes Manifests](./05-containers-compute/30-k8s-manifests)         | ⏳ Upcoming | YAML configurations              |
-| 31  | [Deploy Backend with Kubernetes](./05-containers-compute/31-k8s-backend)        | ⏳ Upcoming | Full-stack Kubernetes deployment |
+| 26  | [Launch a Kubernetes Cluster](./05-containers-compute/28-kubernetes-cluster)    | ⏳ Upcoming | EKS, cluster management          |
+| 27  | [Set Up Kubernetes Deployment](./05-containers-compute/29-k8s-deployment)       | ⏳ Upcoming | Deployments, pods, services      |
+| 28  | [Create Kubernetes Manifests](./05-containers-compute/30-k8s-manifests)         | ⏳ Upcoming | YAML configurations              |
+| 29  | [Deploy Backend with Kubernetes](./05-containers-compute/31-k8s-backend)        | ⏳ Upcoming | Full-stack Kubernetes deployment |
 
 ---
 
