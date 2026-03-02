@@ -82,7 +82,7 @@ This is my personal documentation of building **production-ready AWS solutions**
 | 25  | [Build a Three-Tier Web App](./05-containers-compute/25-three-tier-app)         | ✅ Complete | Application architecture         |
 | 26  | [Launch a Kubernetes Cluster](./05-containers-compute/26-kubernetes-cluster)    | ✅ Complete | EKS, cluster management          |
 | 27  | [Set Up Kubernetes Deployment](./05-containers-compute/27-k8s-deployment)       | ✅ Complete | Deployments, pods, services      |
-| 28  | [Create Kubernetes Manifests](./05-containers-compute/38-k8s-manifests)         | ⏳ Upcoming | YAML configurations              |
+| 28  | [Create Kubernetes Manifests](./05-containers-compute/38-k8s-manifests)         | ✅ Complete | YAML configurations              |
 | 29  | [Deploy Backend with Kubernetes](./05-containers-compute/30-k8s-backend)        | ⏳ Upcoming | Full-stack Kubernetes deployment |
 
 ---
