@@ -72,7 +72,7 @@ This is my personal documentation of building **production-ready AWS solutions**
 
 ---
 
-### **Phase 5: Containers & Compute** (0/10 Projects)
+### **Phase 5: Containers & Compute** COMPLETED (8/8 Projects)
 
 | #   | Project                                                                         | Status      | What I'll Learn                  |
 | --- | ------------------------------------------------------------------------------- | ----------- | -------------------------------- |
@@ -87,7 +87,7 @@ This is my personal documentation of building **production-ready AWS solutions**
 
 ---
 
-### **Phase 6: DevOps** (0/10 Projects)
+### **Phase 6: DevOps** COMPLETED (10/10 Projects)
 
 | #   | Project                                                                           | Status      | What I'll Learn                    |
 | --- | --------------------------------------------------------------------------------- | ----------- | ---------------------------------- |
