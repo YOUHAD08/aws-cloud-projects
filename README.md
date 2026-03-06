@@ -66,7 +66,7 @@ This is my personal documentation of building **production-ready AWS solutions**
 | #   | Project                                                                    | Status      | What I'll Learn               |
 | --- | -------------------------------------------------------------------------- | ----------- | ----------------------------- |
 | 18  | [Encrypt Data with AWS KMS](./04-security/18-encrypt-data-with-kms)        | ✅ Complete | Key management, encryption    |
-| 19  | [Threat Detection with GuardDuty](./04-security/19-threat-detection)       | ⏳ Upcoming | Security monitoring           |
+| 19  | [Threat Detection with GuardDuty](./04-security/19-threat-detection)       | ✅ Complete | Security monitoring           |
 | 20  | [Secure Secrets with Secrets Manager](./04-security/20-secrets-manager)    | ⏳ Upcoming | Credential management         |
 | 21  | [Build a Security Monitoring System](./04-security/21-security-monitoring) | ⏳ Upcoming | CloudWatch, GuardDuty, alerts |
 
