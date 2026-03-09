@@ -151,10 +151,9 @@ KMS • Secrets Manager • GuardDuty • Lambda • CloudFront • Docker • K
 ✅ Phase 1: AWS Basics (Completed)
 ✅ Phase 2: Networking (Completed)
 ✅ Phase 3: Databases (Completed)
-✅ Phase 4: Security (Next)
-✅ Phase 5: Containers & Compute (Comming Soon)
-✅ Phase 6: DevOps (In Progress)
-✅ AWS Solutions Architect Role
+✅ Phase 4: Security (Completed)
+✅ Phase 5: Containers & Compute (Completed)
+✅ Phase 6: DevOps (Completed)
 ```
 
 ---
