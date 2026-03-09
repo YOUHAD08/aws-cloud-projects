@@ -61,7 +61,7 @@ This is my personal documentation of building **production-ready AWS solutions**
 
 ---
 
-### **Phase 4: Security** 🔄 IN PROGRESS (3/4 Projects)
+### **Phase 4: Security** 🔄 IN PROGRESS (4/4 Projects)
 
 | #   | Project                                                                    | Status      | What I'll Learn               |
 | --- | -------------------------------------------------------------------------- | ----------- | ----------------------------- |
